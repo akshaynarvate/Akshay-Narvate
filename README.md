@@ -1,5 +1,5 @@
-#                         Hello 👋, I'm Akshay Narvate
-###   A Data Scientist, Data encourages me to be more intelligent by identifying patterns.
+  #                         Hello 👋, I'm Akshay Narvate
+   ###   A Data Scientist, Data encourages me to be more intelligent by identifying patterns.
 
 🔭 I’m currently working on: Natural Language Processing
 
