@@ -7,11 +7,11 @@
 
 👯 I’m looking to collaborate on: Machine Learning Projects
 
-🎯 Portfolio: https://nikhil-jagtap619.github.io/Portfolio/
+🎯 Portfolio: [Akshay Narvate](https://akshaynarvate-resume-app-streamlit-app-y86511.streamlitapp.com/)
 
-📫 How to reach me: nikhiljagtapt619@outlook.com
+📫 Have a look at my Blog: [Artificial Intelligence through my prism](https://medium.com/@akshaynarvate786123/artificial-intelligence-through-my-prism-49409468648a)
 
-⚡ Fun fact: I rely on miracles. I don't believe in them.
+⚡ Fun fact: Time is a Infinite Loop. I try to find patterns in history, it excite's me to know what happens next.
 
 Languages and Tools:
 mysql python R scikit_learn 
